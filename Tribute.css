@@ -19,8 +19,8 @@ p{
 }
 
 img{
-    width: 100%;
-    display: block;
+   display:block;
+    width: 60%;
     height: auto;
     margin: 0 auto;
 }
@@ -35,5 +35,18 @@ h1{
 }
 
 figcaption{
-    display: block;
+    display:block;
+}
+#tribute-info{
+    widows:40%;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+blockquote{
+    widows:30%;
 }
