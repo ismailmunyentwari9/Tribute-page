@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-size: 1.6rem;
+    color: black;
+    line-height: 1.5;
+}
+
+#main{
+    margin: 30px 8px;
+    border-radius: 5px;
+    padding: 15px;
+    background: #eee;
+}
+
+p{
+    display: block;
+    margin: 1em 0 1em 0;
+}
+
+img{
+    width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+#img-caption{
+    margin: 15px 0 5px 0;
+}
+
+figcaption{
+    display: block;
+}
